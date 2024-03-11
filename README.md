@@ -1,21 +1,24 @@
-Eco Smart Solutions
+**Eco Smart Solutions**
 
 https://ecosmart.netlify.app
 
 Eco Smart Solutions is a student-led organization with the vision of promoting environmental sustainability and awareness in Vietnam. Operating from 2022-2024, the organization aims to become one of the leading active student organizations in the North, working towards a greener future.
 
-Focus on Environmentally Friendly Products
+**Focus on Environmentally Friendly Products**
+
 Eco Smart Solutions is a pioneer in promoting the development of environmentally friendly products. The organization is dedicated to researching and promoting products that are not only sustainable but also practical and accessible to the general public. Through its efforts, Eco Smart VietNam hopes to inspire individuals and businesses to adopt environmentally conscious practices and make a positive impact on the environment.
 
-Website
+**Website**
+
 The Eco Smart Solutions website is built using JavaScript, HTML/CSS, and Flask, and serves as a platform to share information about the organization, its mission, and the products it promotes. The website also provides resources and tips for individuals who want to learn more about environmental sustainability and make a positive impact on the environment.
 
-Get Involved
+**Get Involved**
+
 If you are passionate about the environment and want to make a difference, Eco Smart Solutions is a great organization to get involved with. Whether you're a student or just someone who wants to contribute, there are many ways to get involved, including volunteering, making a donation, or spreading the word about the cause.
 
-For more information on Eco Smart Solutions and its mission, please visit our website at https://ecosmart.netlify.app/ or contact us at +1-651-235-2682
+For more information on Eco Smart Solutions and its mission, please visit our website at https://ecosmart.netlify.app/ or contact us at +1-651-235-2682.
 
-Development Guide:
+**Development Guide**:
 - Install requirements:
 $ pip install -r requirements.txt
 
